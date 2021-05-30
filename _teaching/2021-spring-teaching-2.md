@@ -1,9 +1,9 @@
 ---
 title: "CS5228 Knowledge Discovery and Data Mining"
 collection: Teaching Assitant (coordinate with Prof Christian)
-type: "Master Course"
+type: "Graduate Course"
 permalink: /teaching/2021-spring-teaching-2
-venue: "National University of Sinapore, Department of Computer Science"
+venue: "Department of Computer Science, National University of Sinapore"
 date: 2021-01-13
 location: "Com 1, NUS"
 ---

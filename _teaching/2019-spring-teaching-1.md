@@ -3,7 +3,7 @@ title: "CS1010E Programming Methodology"
 collection: Teaching Assistant (coordinate with Dr. Richard)
 type: "Undergraduate course"
 permalink: /teaching/2019-spring-teaching-1
-venue: "University of Sinapore, Department of Computer Science"
+venue: "Department of Computer Science, National University of Sinapore"
 date: 2019-01-10
 location: "Com 1, NUS"
 ---
